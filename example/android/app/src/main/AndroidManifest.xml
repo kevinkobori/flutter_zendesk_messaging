@@ -1,10 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.chyiiiiiiiiiiiiii.zendesk_messaging_example">
+    package="com.mewnu.flutter_zendesk_messaging_example">
 
     <application
         android:icon="@mipmap/ic_launcher"
-        android:label="zendesk_messaging_example">
+        android:label="flutter_zendesk_messaging_example">
 
         <provider
             android:name="androidx.core.content.FileProvider"

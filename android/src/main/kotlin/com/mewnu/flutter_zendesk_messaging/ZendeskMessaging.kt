@@ -1,5 +1,5 @@
 import android.content.Intent
-import com.chyiiiiiiiiiiiiii.zendesk_messaging.ZendeskMessagingPlugin
+import com.mewnu.flutter_zendesk_messaging.ZendeskMessagingPlugin
 import io.flutter.plugin.common.MethodChannel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope

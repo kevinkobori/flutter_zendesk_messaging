@@ -1,6 +1,6 @@
-# zendesk_messaging_example
+# flutter_zendesk_messaging_example
 
-Demonstrates how to use the zendesk_messaging plugin.
+Demonstrates how to use the flutter_zendesk_messaging plugin.
 
 ## Getting Started
 

@@ -1,4 +1,4 @@
-package com.chyiiiiiiiiiiiiii.zendesk_messaging
+package com.mewnu.flutter_zendesk_messaging
 
 import ZendeskMessaging
 import android.app.Activity
@@ -80,7 +80,7 @@ class ZendeskMessagingPlugin : FlutterPlugin, MethodCallHandler, ActivityAware {
     }
 
     override fun onAttachedToEngine(@NonNull flutterPluginBinding: FlutterPlugin.FlutterPluginBinding) {
-        channel = MethodChannel(flutterPluginBinding.binaryMessenger, "zendesk_messaging")
+        channel = MethodChannel(flutterPluginBinding.binaryMessenger, "flutter_zendesk_messaging")
         channel.setMethodCallHandler(this)
     }
 

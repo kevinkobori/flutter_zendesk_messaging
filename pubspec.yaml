@@ -1,7 +1,7 @@
-name: zendesk_messaging
+name: flutter_zendesk_messaging
 description: Zendesk-Messaging for Flutter developer
 version: 2.6.0+1
-homepage: https://github.com/chyiiiiiiiiiiii/flutter_zendesk_messaging
+homepage: https://github.com/kevinkobori/flutter_zendesk_messaging
 
 environment:
   sdk: '>=2.18.1 <3.0.0'
@@ -28,7 +28,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.chyiiiiiiiiiiiiii.zendesk_messaging
+        package: com.mewnu.flutter_zendesk_messaging
         pluginClass: ZendeskMessagingPlugin
       ios:
         pluginClass: ZendeskMessagingPlugin

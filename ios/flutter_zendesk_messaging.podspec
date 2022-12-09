@@ -1,9 +1,9 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint zendesk_messaging.podspec` to validate before publishing.
+# Run `pod lib lint flutter_zendesk_messaging.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'zendesk_messaging'
+  s.name             = 'flutter_zendesk_messaging'
   s.version          = '2.6.0'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC

@@ -1,4 +1,4 @@
-group 'com.chyiiiiiiiiiiiiii.zendesk_messaging'
+group 'com.mewnu.flutter_zendesk_messaging'
 version '1.0-SNAPSHOT'
 
 buildscript {
